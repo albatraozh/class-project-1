@@ -4,4 +4,14 @@
 }
 #hr2{
 
-	margin: 300px;
+	margin-left: 300px;
+	margin-right:300px;
+}
+.color{
+
+	background-color: #46446B;
+}
+.btn{
+
+	color: white;
+}
